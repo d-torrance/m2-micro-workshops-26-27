@@ -9,8 +9,7 @@ than the length — a workshop may well run a full week — with only a handful 
 participants working on one narrowly defined set of problems.
 
 Projects lean toward the **internals of Macaulay2**: the C++ engine, the interpreter,
-the build system, and the infrastructure the rest of the system rests on, rather than
-mathematics implemented at the package level.
+the build system, and the infrastructure the rest of the system rests on.
 
 Over 2026 and 2027 we are running a series of these at several host institutions. If you
 are interested in taking part, get in touch with the [organizers](#organizers).
@@ -28,8 +27,10 @@ are interested in taking part, get in touch with the [organizers](#organizers).
 {% endfor %}
 </ul>
 
+<p class="workshops-more">More micro-workshops to be announced.</p>
+
 <h2 id="organizers">Organizers</h2>
 
-The series is organized by [Mike Stillman](https://pi.math.cornell.edu/~mike) (Cornell
-University) and [Doug Torrance](https://d-torrance.github.io) (Georgia Institute of
-Technology). Individual workshops also have local hosts, listed on each workshop's page.
+The series is organized by [Mike Stillman](https://pi.math.cornell.edu/~mike) (Cornell)
+and [Doug Torrance](https://d-torrance.github.io) (Georgia Tech). Individual workshops
+also have local hosts, listed on each workshop's page.

@@ -100,6 +100,13 @@ h1, h2, h3, h4,
   max-width: 68ch;
 }
 
+.workshops-more {
+  margin: 0.25rem 0 0;
+  padding-left: 1.5rem;
+  color: var(--m2-muted);
+  font-style: italic;
+}
+
 /* ---------- Workshop detail page ---------- */
 
 .workshop-facts {
