@@ -1,0 +1,103 @@
+###########################################################
+### Macaulay2 Micro-Workshops, 2026-27
+### Site-wide settings. Theme is beautiful-jekyll, pulled in
+### as a remote theme, so this repo contains content only.
+###########################################################
+
+############################
+# --- Required options --- #
+############################
+
+title: Macaulay2 Micro-Workshops
+author: Mike Stillman and Doug Torrance
+
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+# Project page on GitHub Pages -- baseurl must match the repository name,
+# otherwise stylesheets and links resolve to the wrong paths.
+url: "https://d-torrance.github.io"
+baseurl: "/m2-micro-workshops-26-27"
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  Workshops: "#workshops"
+  Organizers: "organizers"
+
+###########################
+# --- General options --- #
+###########################
+
+title-on-all-pages: true
+navbar-var-length: false
+
+keywords: "Macaulay2,workshop,computational algebraic geometry,commutative algebra"
+
+######################################
+# --- Colours / background image --- #
+######################################
+
+# Loosely inspired by macaulay2.com (pale cyan page, teal hover, orange logo),
+# modernized into deep teal + burnt amber. Deliberately institution-neutral,
+# since the workshops are hosted at several different universities.
+
+page-col: "#FBFCFC"
+text-col: "#1C2A2A"
+link-col: "#0E6E6A"
+hover-col: "#C2610F"
+navbar-col: "#0B3B3A"
+navbar-text-col: "#EAF4F3"
+navbar-border-col: "#0B3B3A"
+footer-col: "#F0F4F4"
+footer-text-col: "#4A5A5A"
+footer-link-col: "#0E6E6A"
+footer-hover-col: "#C2610F"
+
+mobile-theme-col: "#0B3B3A"
+
+site-css:
+  - "/assets/css/custom.css"
+
+################
+# --- Misc --- #
+################
+
+date_format: "%B %-d, %Y"
+
+timezone: "America/Chicago"
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+# One page per micro-workshop.
+collections:
+  workshops:
+    output: true
+    permalink: /workshops/:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "workshops"
+    values:
+      layout: "workshop"
+  -
+    scope:
+      path: "" # anything that isn't a workshop gets the theme's page layout
+    values:
+      layout: "page"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap

@@ -1,0 +1,177 @@
+/*
+ * Macaulay2 Micro-Workshops -- customizations on top of beautiful-jekyll.
+ *
+ * Palette (see _config.yml):
+ *   teal   #0E6E6A  primary / links       (modern take on macaulay2.com's #009999)
+ *   amber  #C2610F  accent / hover        (modern take on its orange logo link)
+ *   ink    #1C2A2A  body text
+ *   deep   #0B3B3A  navbar
+ *   rule   #E4EBEA  hairlines and card borders
+ */
+
+:root {
+  --m2-teal: #0E6E6A;
+  --m2-teal-deep: #0B3B3A;
+  --m2-amber: #C2610F;
+  --m2-ink: #1C2A2A;
+  --m2-muted: #5A6E6E;
+  --m2-rule: #E4EBEA;
+  --m2-surface: #FFFFFF;
+}
+
+/* ---------- Typography ---------- */
+
+body,
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, sans-serif;
+}
+
+body {
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4,
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Keep prose to a comfortable measure without narrowing tables or cards. */
+.post-content > p,
+.post-content > ul,
+.post-content > ol,
+.post-content > blockquote {
+  max-width: 68ch;
+}
+
+/* ---------- Workshop cards (home page) ---------- */
+
+.workshop-list {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+.workshop-card {
+  background: var(--m2-surface);
+  border: 1px solid var(--m2-rule);
+  border-left: 3px solid var(--m2-teal);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 2px rgba(11, 59, 58, 0.06);
+  transition: box-shadow 0.15s ease, transform 0.15s ease,
+    border-left-color 0.15s ease;
+}
+
+.workshop-card:hover {
+  box-shadow: 0 4px 14px rgba(11, 59, 58, 0.10);
+  border-left-color: var(--m2-amber);
+  transform: translateY(-1px);
+}
+
+.workshop-card h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.35rem;
+}
+
+.workshop-card h3 a {
+  text-decoration: none;
+}
+
+.workshop-meta,
+.workshop-facts dt {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--m2-muted);
+}
+
+.workshop-meta {
+  margin: 0 0 0.6rem;
+}
+
+.workshop-blurb {
+  margin: 0;
+  max-width: 68ch;
+}
+
+/* ---------- Workshop detail page ---------- */
+
+.workshop-facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.35rem 1.25rem;
+  margin: 0 0 2rem;
+  padding: 1.1rem 1.4rem;
+  background: var(--m2-surface);
+  border: 1px solid var(--m2-rule);
+  border-radius: 10px;
+}
+
+.workshop-facts dt {
+  margin: 0;
+  padding-top: 0.15rem;
+}
+
+.workshop-facts dd {
+  margin: 0;
+}
+
+.workshop-back {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--m2-rule);
+  font-size: 0.95rem;
+}
+
+/* ---------- Motion / dark mode ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .workshop-card {
+    transition: none;
+  }
+  .workshop-card:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --m2-ink: #E6EFEE;
+    --m2-muted: #9AB0AF;
+    --m2-rule: #22322F;
+    --m2-surface: #16211F;
+  }
+
+  body {
+    background-color: #101817;
+    color: var(--m2-ink);
+  }
+
+  a,
+  .post-content a {
+    color: #4FB3AE;
+  }
+
+  a:hover,
+  a:focus,
+  .post-content a:hover {
+    color: #E58A3A;
+  }
+
+  .workshop-card,
+  .workshop-facts {
+    box-shadow: none;
+  }
+
+  footer.footer-min,
+  footer {
+    background-color: #16211F;
+    color: var(--m2-muted);
+  }
+}
