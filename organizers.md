@@ -1,6 +1,7 @@
 ---
 title: Organizers
 subtitle: Who is behind the micro-workshop series
+permalink: /organizers/
 ---
 
 The micro-workshop series is organized by:
