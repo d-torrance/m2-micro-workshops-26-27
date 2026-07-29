@@ -37,8 +37,7 @@ Then open <http://localhost:4000/m2-micro-workshops-26-27/>.
 ## Layout
 
 - `_config.yml` — site settings, navbar, colors
-- `index.md` — home page and workshop list
-- `organizers.md` — organizers and contact
+- `index.md` — home page, workshop list, and organizers
 - `_workshops/` — one file per workshop
 - `_layouts/workshop.html` — workshop page layout
 - `assets/css/custom.css` — typography and card styling

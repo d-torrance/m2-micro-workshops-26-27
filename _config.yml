@@ -24,7 +24,6 @@ baseurl: "/m2-micro-workshops-26-27"
 
 navbar-links:
   Workshops: "#workshops"
-  Organizers: "organizers"
 
 ###########################
 # --- General options --- #

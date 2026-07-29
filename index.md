@@ -25,6 +25,8 @@ system is required, though some familiarity with the language is helpful.
 {% endfor %}
 </ul>
 
-## Contact
+## Organizers
 
-Questions about the series are welcome — see the [organizers]({{ '/organizers' | relative_url }}) page.
+The series is organized by [Mike Stillman](https://pi.math.cornell.edu/~mike) (Cornell
+University) and [Doug Torrance](https://webwork.piedmont.edu/~dtorrance) (Piedmont
+University). Individual workshops also have local hosts, listed on each workshop's page.
