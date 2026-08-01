@@ -1,6 +1,6 @@
 ---
 title: Macaulay2 Micro-Workshops
-subtitle: A series of short, focused workshops for Macaulay2 users and developers, 2026–27
+subtitle: A series of focused workshops for Macaulay2 users and developers, 2026–27
 ---
 
 A **micro-workshop** is a small, tightly scoped gathering built around a single theme in
@@ -32,5 +32,4 @@ are interested in taking part, get in touch with the [organizers](#organizers).
 <h2 id="organizers">Organizers</h2>
 
 The series is organized by [Mike Stillman](https://mikestillman.github.io/) (Cornell)
-and [Doug Torrance](https://d-torrance.github.io) (Georgia Tech). Individual workshops
-also have local hosts, listed on each workshop's page.
+and [Doug Torrance](https://d-torrance.github.io) (Georgia Tech).
