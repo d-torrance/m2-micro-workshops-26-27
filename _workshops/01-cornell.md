@@ -35,8 +35,20 @@ Lodging is arranged and paid for directly by Cornell — participants do not nee
 their own rooms.
 
 Travel is booked by participants and reimbursed afterward, so go ahead and make your
-arrangements. Keep your receipts and boarding passes. Meals are covered by per diem,
-which is also reimbursed, so meal receipts are not required.
+arrangements.
+
+You can fly all the way in to Ithaca Tompkins International Airport (ITH), a few miles
+from campus, but scheduled service is limited to two nonstop routes: Delta to New York
+(JFK) and United to Washington Dulles (IAD). Connecting through one of those two is the
+only way to land in Ithaca itself.
+
+Syracuse (SYR) is the usual alternative and has far more flights. It is about 60 miles
+from Ithaca — roughly an hour and fifteen minutes by car — and from there you can rent
+a car, take an Uber, or ride the OurBus shuttle, which runs from the airport terminal
+to the Cornell campus.
+
+Keep your receipts and boarding passes. Meals are covered by per diem, which is also
+reimbursed, so meal receipts are not required.
 
 ## Registration
 
