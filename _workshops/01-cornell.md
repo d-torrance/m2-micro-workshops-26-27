@@ -11,9 +11,10 @@ blurb: "Four days of work on the C++ engine, continuing the refactoring effort b
 ## Overview
 
 This workshop is devoted to refactoring Macaulay2's C++ engine. It continues the work
-begun at [The Future of Macaulay2](https://d-torrance.github.io/m2gt26) workshop, held at
-Georgia Tech in May 2026, where participants mapped out directions for modernizing the
-system's architecture.
+begun at [The Future of Macaulay2](https://d-torrance.github.io/m2gt26) workshop, led by
+[Michael Burr](https://cecas.clemson.edu/~burr2/) and
+[Mike Stillman](https://mikestillman.github.io/) and held at Georgia Tech in May 2026,
+where participants mapped out directions for modernizing the system's architecture.
 
 Participants will work directly on engine internals, so this is a workshop for people
 comfortable reading and writing C++ and building Macaulay2 from source.
