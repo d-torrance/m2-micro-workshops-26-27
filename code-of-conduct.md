@@ -1,0 +1,174 @@
+---
+title: Code of Conduct
+permalink: /code-of-conduct/
+---
+
+All participants in the Macaulay2 micro-workshops agree to follow this Code of Conduct.
+
+## Our Pledge
+
+We pledge to make our community welcoming, safe, and equitable for all.
+
+We are committed to fostering an environment that respects and promotes the dignity,
+rights, and contributions of all individuals, regardless of characteristics including
+race, ethnicity, caste, color, age, physical characteristics, neurodiversity,
+disability, sex or gender, gender identity or expression, sexual orientation, language,
+philosophy or religion, national or social origin, socio-economic position, level of
+education, or other status. The same privileges of participation are extended to
+everyone who participates in good faith and in accordance with this Covenant.
+
+## Encouraged Behaviors
+
+While acknowledging differences in social norms, we all strive to meet our community's
+expectations for positive behavior. We also understand that our words and actions may
+be interpreted differently than we intend based on culture, background, or native
+language.
+
+With these considerations in mind, we agree to behave mindfully toward each other and
+act in ways that center our shared values, including:
+
+1. Respecting the **purpose of our community**, our activities, and our ways of
+   gathering.
+2. Engaging **kindly and honestly** with others.
+3. Respecting **different viewpoints** and experiences.
+4. **Taking responsibility** for our actions and contributions.
+5. Gracefully giving and accepting **constructive feedback**.
+6. Committing to **repairing harm** when it occurs.
+7. Behaving in other ways that promote and sustain the **well-being of our community**.
+
+## Restricted Behaviors
+
+We agree to restrict the following behaviors in our community. Instances, threats, and
+promotion of these behaviors are violations of this Code of Conduct.
+
+1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary
+   personal attention after any clear request to stop.
+2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed
+   at a community member or group of people.
+3. **Stereotyping or discrimination.** Characterizing anyone's personality or behavior
+   on the basis of immutable identities or traits.
+4. **Sexualization.** Behaving in a way that would generally be considered
+   inappropriately intimate in the context or purpose of the community. This includes
+   **sexual harassment** (unwelcome sexual attention, advances, comments, or contact)
+   and **sexual assault** (any sexual contact without consent).
+5. **Violating confidentiality.** Sharing or acting on someone's personal or private
+   information without their permission.
+6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward
+   any person or group.
+7. Behaving in other ways that **threaten the well-being** of our community.
+
+### Other Restrictions
+
+1. **Misleading identity.** Impersonating someone else for any reason, or pretending to
+   be someone else to evade enforcement actions.
+2. **Failing to credit sources.** Not properly crediting the sources of content you
+   contribute.
+3. **Promotional materials.** Sharing marketing or other commercial content in a way
+   that is outside the norms of the community.
+4. **Irresponsible communication.** Failing to responsibly present content which
+   includes, links or describes any other restricted behaviors.
+
+## Reporting an Issue
+
+Tensions can occur between community members even when they are trying their best to
+collaborate. Not every conflict represents a code of conduct violation, and this Code of
+Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and
+minimize harm.
+
+When an incident does occur, it is important to report it promptly. To report a
+possible violation, talk to either organizer in person at the workshop, or email them:
+
+- [Mike Stillman](https://mikestillman.github.io/):
+  [mes15@cornell.edu](mailto:mes15@cornell.edu)
+- [Doug Torrance](https://d-torrance.github.io):
+  [dtorrance9@gatech.edu](mailto:dtorrance9@gatech.edu)
+
+If you would rather not report to the organizers, or if the incident involves one of
+them, you can instead contact the host institution's office for sexual misconduct and
+discrimination:
+
+- Cornell University: [Office of Civil Rights](https://titleix.cornell.edu/)
+  ([reporting options](https://titleix.cornell.edu/reporting-options/))
+- Georgia Institute of Technology:
+  [Equal Opportunity, Compliance, and Conflict Management](https://eoc.gatech.edu/)
+  ([reporting options](https://eoc.gatech.edu/reporting-options))
+
+You may report something you witnessed, or ask someone else to report on your behalf.
+Retaliation against anyone who reports a concern or takes part in an investigation is
+itself a violation of this Code of Conduct.
+
+If anyone is in immediate danger, call 911.
+
+The organizers take reports of violations seriously and will make every effort to
+respond in a timely manner. They will investigate all reports of code of conduct
+violations, reviewing messages, logs, and recordings, or interviewing witnesses and
+other participants. The organizers will keep investigation and enforcement actions as
+transparent as possible while prioritizing safety and confidentiality. In order to
+honor these values, enforcement actions are carried out in private with the involved
+parties, but communicating to the whole community may be part of a mutually agreed upon
+resolution.
+
+## Addressing and Repairing Harm
+
+If an investigation by the organizers finds that this Code of Conduct has been violated,
+the following enforcement ladder may be used to determine how best to repair harm, based
+on the incident's impact on the individuals involved and the community as a whole.
+Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+
+1. **Warning**
+   - Event: A violation involving a single incident or series of incidents.
+   - Consequence: A private, written warning from the organizers.
+   - Repair: Examples of repair include a private written apology, acknowledgement of
+     responsibility, and seeking clarification on expectations.
+2. **Temporarily Limited Activities**
+   - Event: A repeated incidence of a violation that previously resulted in a warning,
+     or the first incidence of a more serious violation.
+   - Consequence: A private, written warning with a time-limited cooldown period
+     designed to underscore the seriousness of the situation and give the community
+     members involved time to process the incident. The cooldown period may be limited
+     to particular sessions, communication channels, or interactions with particular
+     community members.
+   - Repair: Examples of repair may include making an apology, using the cooldown
+     period to reflect on actions and impact, and being thoughtful about re-entering
+     community spaces after the period is over.
+3. **Removal from the Workshop**
+   - Event: A pattern of repeated violation which the organizers have tried to address
+     with warnings, or a single serious violation.
+   - Consequence: The person is asked to leave the workshop for its remainder, and is
+     given a private written warning with conditions for taking part in future
+     workshops in the series.
+   - Repair: Examples of repair include respecting the removal, meeting the specified
+     conditions for return, and being thoughtful about how to reintegrate with the
+     community at a later workshop.
+4. **Permanent Ban**
+   - Event: A pattern of repeated code of conduct violations that other steps on the
+     ladder have failed to resolve, or a violation so serious that the organizers
+     determine there is no way to keep the community safe with this person as a
+     member.
+   - Consequence: The person is removed from the current workshop and excluded from all
+     future workshops in the series and their communication channels. In general,
+     permanent bans should be rarely used, should have strong reasoning behind them,
+     and should only be resorted to if working through other remedies has failed to
+     change the behavior.
+   - Repair: There is no possible repair in cases of this severity.
+
+This enforcement ladder is intended as a guideline. It does not limit the ability of the
+organizers to use their discretion and judgment, in keeping with the best interests of
+our community.
+
+## Scope
+
+This Code of Conduct applies to all workshop activities: working sessions, talks, meals,
+social events, and any online channels used by the workshop. It also applies when an
+individual is officially representing the workshop in public or other spaces.
+
+## Attribution
+
+This Code of Conduct is adapted from the
+[Contributor Covenant](https://www.contributor-covenant.org/), version 3.0, permanently
+available at
+[https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+
+Contributor Covenant is stewarded by the Organization for Ethical Source and licensed
+under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This adaptation
+is likewise licensed under CC BY-SA 4.0.

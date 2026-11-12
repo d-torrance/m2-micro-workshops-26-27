@@ -38,6 +38,7 @@ Then open <http://localhost:4000/m2-micro-workshops-26-27/>.
 
 - `_config.yml` — site settings, navbar, colors
 - `index.md` — home page, workshop list, and organizers
+- `code-of-conduct.md` — code of conduct, adapted from the Contributor Covenant 3.0
 - `_workshops/` — one file per workshop
 - `_layouts/workshop.html` — workshop page layout
 - `assets/css/custom.css` — typography and card styling
