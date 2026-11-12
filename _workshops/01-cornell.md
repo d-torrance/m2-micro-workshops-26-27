@@ -4,6 +4,7 @@ order: 1
 date_display: "Monday–Thursday, September 14–17, 2026"
 location: "Ithaca, New York"
 host: "Cornell University"
+funding: "National Science Foundation, grant DMS-2001367"
 registration:
 blurb: "Four days of work on the C++ engine, continuing the refactoring effort begun at the Future of Macaulay2 workshop."
 ---

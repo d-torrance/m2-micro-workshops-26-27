@@ -4,6 +4,7 @@ order: 2
 date_display: "Monday–Friday, January 4–8, 2027"
 location: "Atlanta, Georgia"
 host: "Georgia Institute of Technology"
+funding: "Simons Foundation, Scientific Software Research Faculty Award SFI-MPS-SSRFA-00012695"
 registration:
 blurb: "Five days of work on the C++ engine, picking up where the Cornell workshop left off."
 ---

@@ -20,6 +20,11 @@ layout: page
   <dd>{{ page.host }}</dd>
   {% endif %}
 
+  {% if page.funding %}
+  <dt>Funding</dt>
+  <dd>{{ page.funding }}</dd>
+  {% endif %}
+
   {% if page.registration %}
   <dt>Registration</dt>
   <dd><a href="{{ page.registration }}">Register here</a></dd>

@@ -4,6 +4,7 @@ order: 3
 date_display: "Friday–Sunday, February 26–28, 2027"
 location: "Atlanta, Georgia"
 host: "Georgia Institute of Technology"
+funding: "Simons Foundation, Scientific Software Research Faculty Award SFI-MPS-SSRFA-00012695"
 registration:
 blurb: "Three days of work on Macaulay2 internals, immediately following the Macaulay2 workshop at Auburn."
 ---

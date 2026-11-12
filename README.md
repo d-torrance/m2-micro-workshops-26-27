@@ -17,6 +17,7 @@ order: 3
 date_display: "March 6–8, 2027"
 location: "Ithaca, NY"
 host: "Cornell University"
+funding: "National Science Foundation, grant DMS-2001367"
 registration: "https://example.com/form"
 blurb: "One or two sentences shown in the list on the home page."
 ---
@@ -37,7 +38,7 @@ Then open <http://localhost:4000/m2-micro-workshops-26-27/>.
 ## Layout
 
 - `_config.yml` — site settings, navbar, colors
-- `index.md` — home page, workshop list, and organizers
+- `index.md` — home page, workshop list, organizers, and funding support
 - `code-of-conduct.md` — code of conduct, adapted from the Contributor Covenant 3.0
 - `_workshops/` — one file per workshop
 - `_layouts/workshop.html` — workshop page layout

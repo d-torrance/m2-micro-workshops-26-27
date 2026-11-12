@@ -33,3 +33,10 @@ are interested in taking part, get in touch with the [organizers](#organizers).
 
 The series is organized by [Mike Stillman](https://mikestillman.github.io/) (Cornell)
 and [Doug Torrance](https://d-torrance.github.io) (Georgia Tech).
+
+<h2 id="support">Support</h2>
+
+The workshop at Cornell is supported by the National Science Foundation under grant
+[DMS-2001367](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2001367). The
+workshops at Georgia Tech are supported by a Simons Foundation Scientific Software
+Research Faculty Award, SFI-MPS-SSRFA-00012695.
